@@ -9,4 +9,4 @@ redirect_from:
 
 链接：
 
-[自建邮箱](https://cloud-mail.xiaohuihuib.dpdns.org)
+[自建临时邮箱](https://cloud-mail.xiaohuihuib.dpdns.org)
