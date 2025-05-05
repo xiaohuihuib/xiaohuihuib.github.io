@@ -11,4 +11,4 @@ redirect_from:
 
 [自建临时邮箱](https://cloud-mail.cxyxgzs.dpdns.org)
 
-[我的导航](https://cloud-mail.cxyxgzs.dpdns.org)
+[我的导航](https://wwww.cxyxgzs.dpdns.org)
